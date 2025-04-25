@@ -1,0 +1,13 @@
+{
+  "name": "daisy202-cleaning",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.25.1",
+    "@types/bun": "latest",
+    "@types/jsdom": "^21.1.7"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  }
+}
